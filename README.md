@@ -1,6 +1,6 @@
 # Cohete Cluj
 
-<img width="700" alt="coheteCluj" src="https://user-images.githubusercontent.com/77785688/216456645-0d9f7bde-0b69-43ca-a362-4ee00973fff9.png">
+<img width="1300" alt="coheteCluj" src="https://user-images.githubusercontent.com/77785688/216456645-0d9f7bde-0b69-43ca-a362-4ee00973fff9.png">
 
 La finalidad de este software es eyectar el paracaídas en el momento oportuno para evitar que se destroce.
 
